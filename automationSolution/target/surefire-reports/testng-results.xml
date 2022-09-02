@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28070" started-at="2022-09-02T07:44:55Z" finished-at="2022-09-02T07:45:23Z">
+    <groups>
+    </groups>
+    <test name="TestcheckoutFunctionality" duration-ms="9748" started-at="2022-09-02T07:44:55Z" finished-at="2022-09-02T07:45:05Z">
+      <class name="Test.TestCheckoutFunctionality">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:Test.TestCheckoutFunctionality@2b546384]" name="setUp" is-config="true" duration-ms="2903" started-at="2022-09-02T13:14:55Z" finished-at="2022-09-02T13:14:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.TestCheckoutFunctionality.testCheckoutFunctionality() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCheckoutFunctionality()[pri:0, instance:Test.TestCheckoutFunctionality@2b546384]" name="testCheckoutFunctionality" duration-ms="6677" started-at="2022-09-02T13:14:58Z" finished-at="2022-09-02T13:15:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCheckoutFunctionality -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.TestCheckoutFunctionality@2b546384]" name="tearDown" is-config="true" duration-ms="158" started-at="2022-09-02T13:15:05Z" finished-at="2022-09-02T13:15:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCheckoutFunctionality status=SUCCESS method=TestCheckoutFunctionality.testCheckoutFunctionality()[pri:0, instance:Test.TestCheckoutFunctionality@2b546384] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestCheckoutFunctionality -->
+    </test> <!-- TestcheckoutFunctionality -->
+    <test name="TestsearchFunctionality" duration-ms="13299" started-at="2022-09-02T07:45:10Z" finished-at="2022-09-02T07:45:23Z">
+      <class name="Test.TestSearchFunctionality">
+        <test-method status="PASS" signature="setUp(java.lang.reflect.Method)[pri:0, instance:Test.TestSearchFunctionality@3b2da18f]" name="setUp" is-config="true" duration-ms="2091" started-at="2022-09-02T13:15:10Z" finished-at="2022-09-02T13:15:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.TestSearchFunctionality.testSearchFunctionality() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSearchFunctionality()[pri:0, instance:Test.TestSearchFunctionality@3b2da18f]" name="testSearchFunctionality" duration-ms="10742" started-at="2022-09-02T13:15:12Z" finished-at="2022-09-02T13:15:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionality -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Test.TestSearchFunctionality@3b2da18f]" name="tearDown" is-config="true" duration-ms="465" started-at="2022-09-02T13:15:23Z" finished-at="2022-09-02T13:15:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchFunctionality status=SUCCESS method=TestSearchFunctionality.testSearchFunctionality()[pri:0, instance:Test.TestSearchFunctionality@3b2da18f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test.TestSearchFunctionality -->
+    </test> <!-- TestsearchFunctionality -->
+  </suite> <!-- Suite -->
+</testng-results>
